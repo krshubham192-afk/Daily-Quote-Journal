@@ -1,6 +1,8 @@
 🌞 Daily Quote Journal
 A simple, uplifting web app that delivers a daily dose of motivation and lets users reflect on quotes by saving personal notes. Perfect for journaling, inspiration, or just a quick pick-me-up.
 
+TRY HERE - https://krshubham192-afk.github.io/Daily-Quote-Journal/
+
 ✨ Features
 🎯 Displays a random motivational quote on page load
 
